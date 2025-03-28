@@ -25,6 +25,9 @@ We will build the linked list and pass the node to your function.
 The output will be the entire list after calling your function.
 
 ## Example
+![image](https://github.com/user-attachments/assets/e6beb8b5-9348-486b-9ce5-c1d6726c9ad4)
+
+
 Input: head = [4,5,1,9], node = 5
 
 Output: [4,1,9]
